@@ -14,4 +14,3 @@ The
 - GitHub
 - Appendix
 
-![image](https://github.com/shariahoque01/Big-Data-Technologies-with-NYC-Taxi-Data/assets/77020066/d297297f-4b61-4aa8-af1d-e66d7d9302cc)
